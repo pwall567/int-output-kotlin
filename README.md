@@ -13,7 +13,7 @@ That library has proved very useful, but being written in Java, it doesn't lend 
 
 The `int-output-kotlin` library is a thin Kotlin layer over the top of `int-output`.
 It provides access to the underlying library in a more natural style for Kotlin developers, and depending on the level
-optimisation of the compiler, the code using the Kotlin versions should not be significantly less efficient than code
+of optimisation of the compiler, the code using the Kotlin versions should not be significantly less efficient than code
 calling the original functions.
 
 ## User Guide
